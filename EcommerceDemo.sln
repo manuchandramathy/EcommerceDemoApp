@@ -13,7 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ecommerce.Common", "Ecommer
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "DbScript", "DbScript", "{75350B43-8833-4F45-A054-B21D4DD5EE83}"
 	ProjectSection(SolutionItems) = preProject
-		C:\Users\saji\Documents\Ecommercedbscript.sql = C:\Users\saji\Documents\Ecommercedbscript.sql
+		..\..\..\..\saji\Documents\Ecommercedbscript.sql = ..\..\..\..\saji\Documents\Ecommercedbscript.sql
+		Dbscriptdata\New Text Document.txt = Dbscriptdata\New Text Document.txt
 	EndProjectSection
 EndProject
 Global
